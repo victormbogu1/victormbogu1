@@ -9,7 +9,7 @@
 <h2>📜 Certification</h2>
 
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [![Credentials-victormbogu-0857-Microsoft-Learn.png](https://i.postimg.cc/bJC1N3xs/Credentials-victormbogu-0857-Microsoft-Learn.png)](https://postimg.cc/5YzXs5kV)
 
 <h2> 🤳 Connect with me:</h2>
 
