@@ -9,7 +9,7 @@
 <h2>📜 Certification</h2>
 
 
-- [![Credentials-victormbogu-0857-Microsoft-Learn.png](https://i.postimg.cc/bJC1N3xs/Credentials-victormbogu-0857-Microsoft-Learn.png)](https://postimg.cc/5YzXs5kV)
+- [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 
 <h2> 🤳 Connect with me:</h2>
 
