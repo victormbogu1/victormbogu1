@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Intune Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
+  - [Intune Project](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
 <h2>👨🏽‍🎓 Education</h2>
 
 <h2>📜 Certification</h2>
