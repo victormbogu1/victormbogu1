@@ -6,8 +6,10 @@
   - [Intune Project](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
 <h2>👨🏽‍🎓 Education</h2>
 
-<h2>📜 Certification</h2>
+  - Masters in IT Security Management
+  - Bachelor's in Statistics
 
+<h2>📜 Certification</h2>
 
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 
