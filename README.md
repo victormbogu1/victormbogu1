@@ -12,7 +12,8 @@
 <h2>📜 Certification</h2>
 
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
-
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
