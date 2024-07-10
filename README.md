@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
-  - [Intune Project](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
+  - [On-Prem AD Setup, and Intune](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
 <h2>👨🏽‍🎓 Education</h2>
 
   - Masters in IT Security Management
