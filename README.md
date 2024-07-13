@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
   - [Install and Configure Azure AD Connect to Sync On Premises AD Users](https://github.com/victormbogu1/On-Premises-AD-Setup/tree/main)
-  - [Group Policy Management Home Lab](https://github.com/victormbogu1/On-Premises-AD-Setup/tree/main)Creating and Setting up GPO
+  - [Group Policy Management Home Lab](https://github.com/victormbogu1/Creating-and-Setting-up-GPO/tree/main)
     
 <h2>👨🏽‍🎓 Education</h2>
 
