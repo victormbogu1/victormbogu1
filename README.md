@@ -7,6 +7,7 @@
   - [Group Policy Management Home Lab With Implimentation of Account Policy From Brute Force Attack](https://github.com/victormbogu1/Creating-and-Setting-up-GPO/tree/main)
   - [Nessus Essentials Vulnerability Management Lab](https://github.com/victormbogu1/Vulnerability-Management)
   - [Configuring Network Security Groups and Application Security Groups Lab]
+  - [Implement Microsoft Entra self-service password reset Lab]
     
 <h2>👨🏽‍🎓 Education</h2>
 
