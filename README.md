@@ -5,6 +5,7 @@
   - [Active Directory Home Lab With Bulk User Creation Using Poweshell](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
   - [Install and Configure Azure AD Connect to Sync On Premises AD Users](https://github.com/victormbogu1/On-Premises-AD-Setup/tree/main)
   - [Group Policy Management Home Lab With Implimentation of Account Policy From Brute Force Attack](https://github.com/victormbogu1/Creating-and-Setting-up-GPO/tree/main)
+  - [Microsoft Sentinel Live Attack Demonstration Home Lab](https://github.com/victormbogu1/Microsoft-SIEM-HomeLab/tree/main)
   - [Nessus Essentials Vulnerability Management Lab](https://github.com/victormbogu1/Vulnerability-Management)
   - [Configuring Network Security Groups and Application Security Groups Lab](https://github.com/victormbogu1/Configuring-NSG-and-ASG-for-Web-and-Management-Servers/tree/main)
   - [Implementing Microsoft Entra Self-Service Password Reset Lab](https://github.com/victormbogu1/Implement-self-service-password-reset-SSPR-)
