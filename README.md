@@ -21,6 +21,7 @@
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
 - [Google Cybersecurity Certification](https://media.licdn.com/dms/document/media/D4D2DAQGSjY-2D9EWDw/profile-treasury-document-pdf-analyzed/0/1703050072499?e=1722470400&v=beta&t=0d4YU5_6tH3hQTBKT5LOL5vfVLN07JtVHHyA06VpGpk)
+- [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
   
 <h2> 🤳 Connect with me:</h2>
 
