@@ -29,7 +29,7 @@
 - [Newhorizon-Comptia-A-Certificate](https://i.postimg.cc/HsTvb76w/Newhorizon-Comptia-A-Certificate.png)
 - [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
 - [Data Portfolio](https://victormbogu1.github.io/VictorMboguTheAnalyst.github.io/)
-- [test](https://docs.google.com/document/d/1_3dPT4pJ2b5Vel0rdVvubCz31E8WhMf8ltvIhj6bqqk/edit?usp=drive_link)
+- [test](https://drive.google.com/file/d/1oaqNS6FiwnCBpHnk4LuzmZpD8OMI5bTY/view?usp=drive_link)
   
 <h2> 🤳 Connect with me:</h2>
 
