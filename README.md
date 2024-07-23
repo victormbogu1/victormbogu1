@@ -22,6 +22,7 @@
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
 - [Google Cybersecurity Certification](https://media.licdn.com/dms/document/media/D4D2DAQGSjY-2D9EWDw/profile-treasury-document-pdf-analyzed/0/1703050072499?e=1722470400&v=beta&t=0d4YU5_6tH3hQTBKT5LOL5vfVLN07JtVHHyA06VpGpk)
 - [Google IT Support Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BJHCM799NVSJ)
+- [![Newhorizon-Comptia-A-Certificate.png](https://i.postimg.cc/HsTvb76w/Newhorizon-Comptia-A-Certificate.png)](https://postimg.cc/dDS9YDP3)
 - [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
   
 <h2> 🤳 Connect with me:</h2>
