@@ -20,10 +20,15 @@
 
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
+- [Certificate-of-Volunteer-Appreciation](https://i.postimg.cc/ZRrjdT3s/Certificate-of-Volunteer-Appreciation-Victor-Mbogu.png)
+- [Cyber-Security-Asset-Management](https://i.postimg.cc/T34k8Nf0/Qualys-Cyber-Security-Asset-Management-CSAM.png)
+- [Vulnerability-Management-Detection-Response](https://i.postimg.cc/6Q4MBVQX/Qualys-Vulnerability-Management-Detection-Response.png)
+- [Social Engineering & Digital Investigation](https://i.postimg.cc/5263m5LC/ANZ-Australia-completion-certificate.png)
 - [Google Cybersecurity Certification](https://media.licdn.com/dms/document/media/D4D2DAQGSjY-2D9EWDw/profile-treasury-document-pdf-analyzed/0/1703050072499?e=1722470400&v=beta&t=0d4YU5_6tH3hQTBKT5LOL5vfVLN07JtVHHyA06VpGpk)
 - [Google IT Support Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BJHCM799NVSJ)
 - [Newhorizon-Comptia-A-Certificate](https://i.postimg.cc/HsTvb76w/Newhorizon-Comptia-A-Certificate.png)
 - [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
+- [Data Portfolio](https://i.postimg.cc/KjfN0J0n/Victor-Mbogu-Portfolio.png)
   
 <h2> 🤳 Connect with me:</h2>
 
