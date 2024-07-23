@@ -10,7 +10,7 @@
   - [Configuring Network Security Groups and Application Security Groups Lab](https://github.com/victormbogu1/Configuring-NSG-and-ASG-for-Web-and-Management-Servers/tree/main)
   - [Implementing Microsoft Entra Self-Service Password Reset Lab](https://github.com/victormbogu1/Implement-self-service-password-reset-SSPR-)
   - [Implementing Azure Firewall Home Lab](https://github.com/victormbogu1/Implementing-Azure-Firewall)
-  - [Social Engineering investigation] 
+  - [Social Engineering investigation](https://github.com/victormbogu1/Phishing-Email-Investigations)
     
 <h2>👨🏽‍🎓 Education</h2>
 
