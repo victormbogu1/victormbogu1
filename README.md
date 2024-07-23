@@ -28,7 +28,7 @@
 - [Google IT Support Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BJHCM799NVSJ)
 - [Newhorizon-Comptia-A-Certificate](https://i.postimg.cc/HsTvb76w/Newhorizon-Comptia-A-Certificate.png)
 - [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
-- [Data Portfolio](https://i.postimg.cc/KjfN0J0n/Victor-Mbogu-Portfolio.png)
+- [Data Portfolio](https://victormbogu1.github.io/VictorMboguTheAnalyst.github.io/)
   
 <h2> 🤳 Connect with me:</h2>
 
