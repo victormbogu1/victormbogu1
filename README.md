@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/><a href="https://github.com/victormbogu1">IT Support Tech</a>, <a href="https://www.linkedin.com/in/victor-mbogu-aa932b142/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Victor! <br/><a href="https://github.com/victormbogu1">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/victor-mbogu-aa932b142/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
