@@ -25,7 +25,7 @@
 - [Cyber-Security-Asset-Management](https://drive.google.com/file/d/1hptwK5Qg316zqj1oa2GN-6IBkVo-7O92/view?usp=drive_link)
 - [Vulnerability-Management-Detection-Response](https://drive.google.com/file/d/1UZmwz0dRIKZ2ElSqub1ZjuWxK6phTYEw/view?usp=drive_link)
 - [Social Engineering & Digital Investigation](https://i.postimg.cc/5263m5LC/ANZ-Australia-completion-certificate.png)
-- [Google Cybersecurity Certification](https://media.licdn.com/dms/document/media/D4D2DAQGSjY-2D9EWDw/profile-treasury-document-pdf-analyzed/0/1703050072499?e=1722470400&v=beta&t=0d4YU5_6tH3hQTBKT5LOL5vfVLN07JtVHHyA06VpGpk)
+- [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/professional-cert/83NRZDDRPAAN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [Google IT Support Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BJHCM799NVSJ)
 - [Newhorizon-Comptia-A-Certificate](https://i.postimg.cc/HsTvb76w/Newhorizon-Comptia-A-Certificate.png)
 - [Data Immersion](https://media.licdn.com/dms/document/media/C4E2DAQHCegLZX_yCBw/profile-treasury-document-pdf-analyzed/0/1654268156081?e=1722470400&v=beta&t=2hvm6nSiU0AQaZoeNdeslhhD15PDGaoTFnShLLyIPHk)
