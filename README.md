@@ -20,6 +20,7 @@
 
 <h2>📜 Certification</h2>
 
+- [ISOIEC 270012022 Lead Auditor](ISOIEC 270012022 Lead Auditor Victor.pdf)
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
 - [Certificate-of-Volunteer-Appreciation](https://drive.google.com/file/d/1ApwhQO3u5DO_-Telqr-5MTnu9p_X_vLa/view?usp=drive_link)
