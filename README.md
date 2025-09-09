@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Enterprise SOC Lab:Splunk-Sysmon-FortiGate-MITRE-ATT-CK-Simulation (*Live-Traffic*)](https://github.com/victormbogu1/Enterprise-SOC-Lab-Splunk-Sysmon-FortiGate-MITRE-ATT-CK-Simulation-Live-Traffic-/tree/main)
   - [FortiGate-Security-Lab-with-Active-Directory](https://github.com/victormbogu1/FortiGate-Security-Lab-with-Active-Directory/tree/main)
   - [Backup & Disaster Recovery – ISO/IEC 27001:2022 Audit](https://github.com/victormbogu1/-ISO-IEC-27001-2022-Audit-Applied-to-Backup-Disaster-Recovery-Project-.git)
   - [Active Directory Home Lab With Bulk User Creation Using Poweshell](https://github.com/victormbogu1/ActiveDirectoryLab/tree/main)
