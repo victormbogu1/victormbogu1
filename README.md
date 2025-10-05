@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Forensic-Examination-Project – Case Study: Vicos](https://github.com/victormbogu1/Forensic-Examination-Project-Case-Study-Vicos)
+  - [SSH Log Analysis Using Splunk SIEM](https://github.com/victormbogu1/SSH-Log-Analysis-Using-Splunk-SIEM)
+  - [DNS Log Analysis Using Splunk SIEM](https://github.com/victormbogu1/DNS-Log-Analysis-Using-Splunk-SIEM)
+  - [LetsDefend SharePoint Zero-Day Analysis (ToolShell - SOC342-CVE-2025-53770](https://github.com/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320)
   - [Enterprise SOC Lab: Splunk-Sysmon-FortiGate-MITRE-ATT-CK-Simulation (*Live-Traffic*)](https://github.com/victormbogu1/Enterprise-SOC-Lab-Splunk-Sysmon-FortiGate-MITRE-ATT-CK-Simulation-Live-Traffic-/tree/main)
   - [FortiGate-Security-Lab-with-Active-Directory](https://github.com/victormbogu1/FortiGate-Security-Lab-with-Active-Directory/tree/main)
   - [Backup & Disaster Recovery – ISO/IEC 27001:2022 Audit](https://github.com/victormbogu1/-ISO-IEC-27001-2022-Audit-Applied-to-Backup-Disaster-Recovery-Project-.git)
