@@ -22,6 +22,7 @@
 
 <h2>📜 Certification</h2>
 
+- [Fortinet Certified Associate in Cybersecurity.pdf](https://github.com/victormbogu1/Reports-Presentations/blob/0954478cea7ad139575c71c4cd96bc0f391130fd/Fortinet%20Certified%20Associate%20in%20Cybersecurity.pdf)
 - [ISOIEC 270012022 Lead Auditor Victor.pdf](https://github.com/victormbogu1/victormbogu1/blob/dfe6fe80515ab2c3acd8fc427cc278d0527ceb4d/ISOIEC%20270012022%20Lead%20Auditor%20Victor.pdf)
 - [Microsoft Security Engineer](https://learn.microsoft.com/api/credentials/share/en-us/victormbogu-0857/73C8193750FD2998?sharingId=7B3DB694F819BFF8)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d77ae74a-6d35-4d75-a14b-c5ef2c69e565/public_url)
