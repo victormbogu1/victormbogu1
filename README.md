@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Building a Secure Azure Environment](https://github.com/victormbogu1/Secure-Azure-Environment-Lab)
   - [Forensic-Examination-Project – Case Study: Vicos](https://github.com/victormbogu1/Forensic-Examination-Project-Case-Study-Vicos)
   - [SSH Log Analysis Using Splunk SIEM](https://github.com/victormbogu1/SSH-Log-Analysis-Using-Splunk-SIEM)
   - [DNS Log Analysis Using Splunk SIEM](https://github.com/victormbogu1/DNS-Log-Analysis-Using-Splunk-SIEM)
